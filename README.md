@@ -1,5 +1,15 @@
 # Clawd Desk Mascot - 3D print STL (2.5x, for streaming)
 
+![Clawd printed in orange PLA with black eyes, standing on a desk](previews/clawd_preview_hero.png)
+
+![Size comparison: original, 2.5x print, and a 12 oz mug](previews/clawd_scale_comparison.png)
+
+![Back angle](previews/clawd_preview_back_angle.png)
+
+![Dimensions and print plan](previews/clawd_spec_sheet.png)
+
+Tap `stl/clawd_2.5x.stl` in the file list to spin the model in 3D right on GitHub (works on phones).
+
 Claude Code mascot "Clawd", scaled **2.5x** so it is easy to see on a desk or on camera.
 Printer: Elegoo Neptune 4 Pro (225 x 225 mm bed), PLA. No supports needed.
 
